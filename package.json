@@ -11,7 +11,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "stylelint": "13.3.2",
+    "stylelint": "15.10.1",
     "stylelint-config-standard": "20.0.0"
   },
   "scripts": {
